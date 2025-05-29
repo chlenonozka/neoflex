@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350558049429",
+    "project_id": "neoflex-599cc",
+    "storage_bucket": "neoflex-599cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350558049429:android:e72b8f4777503cdfd6779c",
+        "android_client_info": {
+          "package_name": "com.example.neoflex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPoBfeWLFQNmEOB2K6WkavXp2NM8S56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
